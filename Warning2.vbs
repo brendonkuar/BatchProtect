@@ -1,1 +1,1 @@
-x=msgbox("Application not fount" ,48, "Error") > %userprofile%Documents\File2.vbs
+x=msgbox("Application not fount" ,48, "Error")
